@@ -25,6 +25,6 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 ### Links
 
-- Read more AMAs [Sindre Sorhus](https://github.com/sindresorhus/amas) & [Kent Dodds](https://github.com/kentcdodds/ama)
+- Read more AMAs [Sindre Sorhus](https://github.com/sindresorhus/amas) & [Kent C. Dodds](https://github.com/kentcdodds/ama)
 - [Create your own AMA](../../fork)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
